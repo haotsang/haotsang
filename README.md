@@ -3,10 +3,8 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on Android App
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=System.out.println(&quot;Hello World!&quot;);Welcome+~" alt="Typing SVG" />
+- 🌱 I’m currently learning JavaWeb
+- 💬 Ask me about ...
 
 
 <!--
